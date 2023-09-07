@@ -1,0 +1,11 @@
+#div1 {
+    border: 2px dashed blueviolet;
+}
+
+#div2 {
+    border: 8px dotted blue;
+}
+
+body {
+    background-image: url(//CSS/aula04-linhasBordas/img/imagensuceu.jpg);
+}
