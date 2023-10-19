@@ -46,4 +46,31 @@ console.log ('5' + 1)
 
 console.log ('five' - 1)
 
+console.clear()
+
+var incremento = 2
+
+incremento--
+
+console.log(incremento)
+
+console.clear()
+
+var imparPar = 3%2
+
+console.log('se o resultado for 1 o numero é impar, se for 0 é par' + imparPar)
+
+console.clear()
+
+var comparacao = 3>2
+
+console.log('2 é menor que três?' + comparacao)
+
+var doisSinaisIguais = 2 == '2'
+
+console.log(doisSinaisIguais)
+
+var tresSinaisIguais = 2 === '2'
+
+console.log(tresSinaisIguais)
 
