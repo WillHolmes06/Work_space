@@ -24,5 +24,7 @@ console.clear()
 
 for(let contador = 1; contador <=10; contador++){
     console.log(`O numero do contador é ${contador}`)
+
 }
 
+//agora eu que tô
