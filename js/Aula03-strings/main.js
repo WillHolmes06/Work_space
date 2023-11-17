@@ -1,10 +1,10 @@
-var texto1 = 'texto aleatorio dos atrasados da volta da pausa'
+let string =  "Estamos aprendendo JavaScript e seremos futuros Devs"
 
-var texto2 = 'texto aleatorio dos atrasados da volta da pausa'
+console.log(string[19]);
 
-// console.log(texto1 + '' + 'A vida é um sapinho pulando na lagoa' + '' + texto2)
+console.log(string.length);
 
-//template strings
-//console.log(`{texto1} a vida é um sapinho dando pulinhos na lagoa     $`{texto2}`)
+console.log(string.toLocaleUpperCase());
 
-var nu
+console.log(string.substring(48));
+
